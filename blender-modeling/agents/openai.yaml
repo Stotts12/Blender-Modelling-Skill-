@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Modeling"
+  short_description: "Build editable Blender models from pictures"
+  default_prompt: "Use $blender-modeling to build an editable model from these reference pictures and refine it through rendered comparisons."
